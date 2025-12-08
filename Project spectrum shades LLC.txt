@@ -1,0 +1,6 @@
+Practical Exam: Spectrum Shades LLC
+Spectrum Shades LLC is a prominent supplier of concrete color solutions, offering a wide range of pigments and coloring systems used in various concrete applications, including decorative concrete, precast concrete, and concrete pavers. The company prides itself on delivering high-quality colorants that meet the unique needs of its diverse clientele, including contractors, architects, and construction companies.
+
+The company has recently observed a growing number of customer complaints regarding inconsistent color quality in their products. The discrepancies have led to a decline in customer satisfaction and a potential increase in product returns. By identifying and mitigating the factors causing color variations, the company can enhance product reliability, reduce customer complaints, and minimize return rates.
+
+You are part of the data analysis team tasked with providing actionable insights to help Spectrum Shades LLC address the issues of inconsistent color quality and improve customer satisfaction

@@ -118,9 +118,15 @@ Enhanced customer satisfaction
 
 
 # 🧪 How to Run the Project
-git clone https://github.com/your-username/Spectrum-Shades-LLC-project.git
+git clone the project link
+
+
 cd Spectrum-Shades-LLC-project
+
+
 pip install -r requirements.txt
+
+
 jupyter notebook
 
 # 📌 Future Enhancements
